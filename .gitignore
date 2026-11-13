@@ -1,0 +1,5 @@
+/tern
+*.wav
+*.test
+*.out
+.DS_Store
